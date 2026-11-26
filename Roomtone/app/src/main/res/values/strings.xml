@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roomtone</string>
+    <string name="notification_channel_name">Sound monitoring</string>
+    <string name="notification_channel_description">Ongoing microphone monitoring status</string>
+    <string name="notification_title">Roomtone is monitoring</string>
+    <string name="notification_stop">Stop</string>
+</resources>
